@@ -888,7 +888,7 @@ vendor/firmware/filter_ie
 vendor/firmware/ftm5_fw_b3.ftb
 vendor/firmware/fw_bcmdhd.bin
 vendor/firmware/fw_bcmdhd.map
-vendor/firmware/g7.app|532a565f9807aa6b38f366074b2d4eba0fb5942b
+vendor/firmware/g7.app
 vendor/firmware/google/edgetpu-abrolhos.fw
 vendor/firmware/google_wifi_firmware_config_info.pb
 vendor/firmware/sarconfig.info
